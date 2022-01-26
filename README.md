@@ -6,4 +6,5 @@
 #### Medium
 176. Second Highest Salary
 #### Hard
-@ Lisha
+
+&copy; Lisha
